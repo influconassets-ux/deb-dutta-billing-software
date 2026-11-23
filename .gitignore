@@ -1,0 +1,23 @@
+# Personal/working documents kept in this top-level folder locally - not part of the app
+# (scoped to the repo root only, so this doesn't shadow files intentionally tracked inside backend/ or frontend/)
+/*.docx
+/*.xlsx
+/*.pdf
+/extract_header_fonts.ps1
+/docx_headers.txt
+/docx_shapes.txt
+/docx_style.txt
+/extracted_doc.txt
+
+# Environment files
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/.env.development
+frontend/.env.production
+frontend/.env.test
+backend/.env
+backend/.env.*.local
+backend/.env.development
+backend/.env.production
+backend/.env.test
